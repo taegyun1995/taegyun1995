@@ -7,7 +7,7 @@
   <h3>📞 Contact & Blog</h3>
   📧 Email: needle12s@gmail.com
   <br>
-  📖 Blog: <a href="https://gyunny.tistory.com" target="_blank">gyunny.tistory.com</a>
+  📖 Blog: gyunny.tistory.com
 
   <h2>🛠️ Tech Stack</h2>
   
