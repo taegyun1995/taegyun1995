@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h2>백엔드 개발자 이태균입니다.</h2>
   <p>유지보수성과 확장성을 최우선으로 생각하며 꾸준히 발전하는 백엔드 개발자입니다.</p>
 
@@ -50,6 +50,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=taegyun1995&theme=tokyonight&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight">
 </div>
