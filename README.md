@@ -5,9 +5,8 @@
   <h3>📞 Contact & Blog</h3>
   📧 Email: needle12s@gmail.com
   <br>
-  📖 Blog: <a href="https://gyunny.tistory.com" target="_blank">gyunny.tistory.com
+  📖 Blog: <a href="https://gyunny.tistory.com" target="_blank">gyunny.tistory.com</a>
 
-  
   <h2>✨ Tech Stack ✨</h2>
   
   <h3>Languages</h3>
@@ -45,6 +44,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+  <h3>Operating System</h3>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight">
