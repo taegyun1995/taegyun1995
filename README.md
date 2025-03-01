@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Querydsl-0769AD?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=java&logoColor=white">
 
   <h3>Frontend</h3>
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/DIGITAL%20OCEAN-007396?style=for-the-badge&logo=digitalocean&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
   <h3>Tools & OS</h3>
