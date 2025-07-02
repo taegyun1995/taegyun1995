@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Querydsl-0769AD?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
   </p>
 
   <h3>Frontend</h3>
