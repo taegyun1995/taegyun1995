@@ -1,13 +1,8 @@
 <div align="left">
   <h2>백엔드 개발자 이태균입니다.</h2>
-  <p>유지보수성과 확장성을 고려한 설계를 지향하며, 효율적인 백엔드 개발을 추구하는 개발자입니다.</p>
-  <p>문제 해결의 핵심은 팀워크와 소통에 있다고 믿으며, </p>
-  <p>주어진 요구사항을 효과적으로 분석하고 최적의 솔루션을 제공하는 것에 집중합니다.</p>
 
-  <h3>📞 Contact & Blog</h3>
+  <h3>📞 Contact </h3>
   📧 Email: needle12s@gmail.com
-  <br>
-  📖 Blog: gyunny.tistory.com
 
   <h2>🛠️ Tech Stack</h2>
   
