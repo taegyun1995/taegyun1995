@@ -1,8 +1,22 @@
 <div align="left">
   <h2>백엔드 개발자 이태균입니다.</h2>
 
+꾸준히 성장하는 개발자가 되고자 합니다.
+
 <h3>📞 Contact </h3>
-📧 Email: needle12s@gmail.com
+📧 Email: needle12s@gmail.com  
+📝 Blog: https://gyunny.tistory.com
+
+---
+
+<h3>📖 Study</h3>
+
+| 상태 | 내용 |
+|:---:|:---|
+| 📚 진행 중 | 알고리즘<br>JVM 밑바닥까지 파헤치기 |
+| ✅ 완료 | 모던 자바 인 액션 |
+
+---
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -17,9 +31,9 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white">
-    <img src="https://img.shields.io/badge/Querydsl-0769AD?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Querydsl-0769AD?style=for-the-badge">
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge">
   </p>
 
 <h3>Database</h3>
@@ -35,7 +49,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </p>
 
-<h3>Tools & OS</h3>
+<h3>Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -44,12 +58,12 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </p>
 
+---
+
 <h2>📊 GitHub Stats</h2>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taegyun1995&theme=tokyonight&show_icons=true" height="150">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight" height="150">
 
 <h2>🏆 Solved.ac</h2>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=needle12s" height="150">
-</div>
-
 </div>
