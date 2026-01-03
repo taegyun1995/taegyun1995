@@ -1,58 +1,55 @@
 <div align="left">
   <h2>백엔드 개발자 이태균입니다.</h2>
 
-  <h3>📞 Contact </h3>
-  📧 Email: needle12s@gmail.com
+<h3>📞 Contact </h3>
+📧 Email: needle12s@gmail.com
 
-  <h2>🛠️ Tech Stack</h2>
-  
-  <h3>Languages</h3>
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </p>
 
-  <h3>Backend</h3>
+<h3>Backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/Querydsl-0769AD?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
   </p>
-  
-  <h3>Database</h3>
+
+<h3>Database</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   </p>
 
-  <h3>DevOps & Cloud</h3>
+<h3>DevOps & Cloud</h3>
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-    <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-    <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white">
     <img src="https://img.shields.io/badge/DIGITAL%20OCEAN-007396?style=for-the-badge&logo=digitalocean&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </p>
 
-  <h3>Tools & OS</h3>
+<h3>Tools & OS</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </p>
 
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=taegyun1995&theme=tokyonight&show_icons=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight" height="150">
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taegyun1995&theme=tokyonight&show_icons=true" height="150">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight" height="150">
 
-  <h2>🏆 Solved.ac</h2>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=needle12s" height="150">
+<h2>🏆 Solved.ac</h2>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=needle12s" height="150">
 </div>
 
 </div>
