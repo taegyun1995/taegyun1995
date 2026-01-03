@@ -4,7 +4,7 @@
 꾸준히 성장하는 개발자가 되고자 합니다.
 
 <h3>📞 Contact </h3>
-📧 Email: needle12s@gmail.com  
+📧 Email: needle12s@gmail.com <br>
 📝 Blog: https://gyunny.tistory.com
 
 ---
