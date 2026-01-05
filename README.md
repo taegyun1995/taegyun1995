@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </p>
 
-<h3>Backend</h3>
+<h3>Backend & Database</h3>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -35,8 +35,6 @@
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge">
   </p>
-
-<h3>Database</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
