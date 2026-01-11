@@ -55,13 +55,3 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </p>
-
----
-
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=taegyun1995&theme=tokyonight&show_icons=true" height="150">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taegyun1995&layout=compact&theme=tokyonight" height="150">
-
-<h2>🏆 Solved.ac</h2>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=needle12s" height="150">
-</div>
