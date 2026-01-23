@@ -2,11 +2,7 @@
   <h2>이태균</h2>
 
   꾸준히 성장하는 개발자가 되고자 합니다.
-  
-  <h3>📞 Contact </h3>
-  📧 Email: needle12s@gmail.com <br>
-  📝 Blog: https://gyunny.tistory.com
-  
+    
   ---
   
   <h3>📖 Study</h3>
